@@ -1,0 +1,1 @@
+A la hora de realizar un commit el github desktop me lanzo un error relacionado con mi cuenta, error que pudo ser solucionado usando una configuracion del git local
