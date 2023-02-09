@@ -1,0 +1,1 @@
+No me era posible crear un commit debido a un error dado por la configuracion de git y lo solucione cambiando su configuracion a local
