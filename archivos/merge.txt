@@ -1,0 +1,4 @@
+Nombre: Daniel Steven Caro Durango
+Edad: 17
+
+Con esta materia aspiro poder fortalecer mis conocimientos sobre python y aprender sobre java.
